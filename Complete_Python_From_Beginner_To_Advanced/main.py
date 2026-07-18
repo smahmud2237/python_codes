@@ -1,3 +1,7 @@
+'''
+Create a array list of fruits named apple, banana, orange, grapes, watermelon. Now print first and forth fruit from the list.
+'''
+
 fruits = ['apple', 'banana', 'orange', 'grapes', 'watermelon']
 
 first_fruit = fruits[0]
